@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--<color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+-->
+
+    <!-- Mid tan / kalahari-->
+    <color name="colorAccent">#bc6e3c</color>
+    <!-- Maori Brown -->
+    <color name="colorPrimary">#bc6e3c</color>
+    <color name="colorPrimaryDark">#cd864a</color>
+
+    <color name="colorGray">#444440</color>
+
+    <color name="colorIron">#CCCCCC</color>
+    <color name="colorWhite">#FFFFFF</color>
+
+
+
+</resources>
